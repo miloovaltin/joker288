@@ -1,0 +1,16 @@
+{
+"name": "joker288",
+"theme": "joker288",
+"version": "2.6.8",
+"description": "joker288 สมัครสมาชิกเว็บไซต์แทงบอลเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"joker288",
+"joker288 เครดิตฟรี",
+"joker288 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/joker288",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
